@@ -3,7 +3,7 @@
 # Stack X | How to run
 
 <div align="center">
-<img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="https://user-images.githubusercontent.com/57332512/180343099-cc737955-3665-45f9-9fd8-be15a843b178.png">
+<img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="https://user-images.githubusercontent.com/57332512/180343099-cc737955-3665-45f9-9fd8-be15a843b.png">
  </div>
  
  <br>
