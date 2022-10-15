@@ -2,6 +2,11 @@
 
 # Stack X | How to run
 
+***
+
+ # <div align="center">💻 [CLIQUE AQUI PARA ACESSAR](https://developer-react.netlify.app/)
+ </div>
+
 <div align="center">
 <img width="1212" alt="Screen Shot 2022-07-21 at 22 39 08" src="https://github.com/MaiaraSanto/STACKLIST-STACKX-/blob/main/imagem/imagemlogo.PNG">
  </div>
@@ -39,5 +44,5 @@
   ng serve
   ```
   
- # 💻 [CLIQUE AQUI PARA ACESSAR](https://developer-react.netlify.app/)
+
 
