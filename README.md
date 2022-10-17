@@ -4,7 +4,7 @@
 
 ***
 
- # <div align="center">💻 [CLIQUE AQUI PARA ACESSAR](https://developer-react.netlify.app/)
+ # <div align="center">💻 [Clique aqui para acessar](https://developer-react.netlify.app/)
  </div>
 
 <div align="center">
