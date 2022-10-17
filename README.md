@@ -13,9 +13,11 @@
  
  <br>
  
- #
+ ***
  
- # ⚙️ Este projeto foi desenvolvido no curso para Desenvolvedores de Software da Editech StackX para os  conceitos iniciais em React, com as seguintes tecnologias:
+  ⚙️ Este projeto foi desenvolvido no curso para Desenvolvedores de Software da Editech StackX para os  conceitos iniciais em React, com as                        
+  
+  seguintes tecnologias:
 
 - ReactJS Vite CSS :
 
