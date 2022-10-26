@@ -1,6 +1,6 @@
 # STACKLIST-STACKX
 
-# Stack X | How to Run
+# Stack X | How to Run.
 
 ***
 
