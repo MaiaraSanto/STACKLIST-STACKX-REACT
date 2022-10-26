@@ -15,7 +15,7 @@
  
  ***
  
-  ⚙️ Este projeto foi desenvolvido no curso para Desenvolvedores de Software da Editech StackX para os  conceitos iniciais em React, com as                        
+  ⚙️ Este projeto foi desenvolvido no curso para Desenvolvedores de Software da Editech StackX para os conceitos iniciais em React, com as                        
   
   seguintes tecnologias:
 
